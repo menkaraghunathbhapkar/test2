@@ -1,0 +1,2 @@
+# Manually managing azure-functions-worker may cause unexpected issues
+# good thing is that
